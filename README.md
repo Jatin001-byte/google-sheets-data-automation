@@ -102,7 +102,8 @@ tcl-month-plan-automation/
 ## 🙋 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- JATIN
+- GMAIL-jg6579392@gmail.com
 
 ---
 
